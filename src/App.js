@@ -5,8 +5,6 @@ const App = () => {
 
     return (
 
-
-
         <div className="rootCity">
 
             <div className="container">
